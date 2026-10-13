@@ -1,0 +1,8 @@
+body {
+      color: red
+ }
+
+ @media screen and (min-width: 1024px) {
+    body { font-size: 100%; 
+    }
+ }
